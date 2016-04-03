@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Droid\\Plugin\\Bower": "src/"
+            "Droid\\Plugin\\Bower\\": "src/"
         }
     },
     "license": "MIT"
